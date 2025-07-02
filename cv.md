@@ -42,7 +42,8 @@ ABC Company, Minsk
 
 DEF Company, Minsk
 
-#### **[Project CV#1. Markdown & Git]** (https://github.com/DaryaDubovik27/rsschool-cv) 
+#### **Project CV#1. Markdown & Git**
+[My CV repository](https://github.com/DaryaDubovik27/rsschool-cv) 
 
 ******
 ### CODE EXAMPLE
