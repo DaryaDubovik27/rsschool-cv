@@ -49,6 +49,13 @@ DEF Company, Minsk
 
 #### **CV#1. Markdown & Git** (https://github.com/DaryaDubovik27/rsschool-cv) 
 *************************************
+### EXAMPLE OF CODE
+```
+function multiply(a, b){
+  return a * b;
+}
+```
+***********************
 ### SKILLS
 - Excel 
 
