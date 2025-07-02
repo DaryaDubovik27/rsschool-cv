@@ -52,4 +52,4 @@ DEF Company, Minsk
 ### SKILLS
 - Excel 
 
-- ic: Accountant
+- 1C:Accounting
