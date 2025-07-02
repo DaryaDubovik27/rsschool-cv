@@ -13,14 +13,6 @@ Phone number: +12345678
 Discord nickname: @DaryaDubovik27
 
 *****
-### LANGUAGES
-- Russian - Native
-
-- Belarusian - Native
-
-- English - B2
-
-*****
 ### ABOUT ME
 I have over 7 years of experience as a chief accountant. I worked with financial reports, tax systems, and business operations. I am responsible, detail-oriented, and always follow deadlines.
 
@@ -65,3 +57,11 @@ function multiply(a, b){
 - Excel 
 
 - 1C:Accounting
+
+****
+### LANGUAGES
+- Russian - Native
+
+- Belarusian - Native
+
+- English - B2
