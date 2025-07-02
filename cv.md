@@ -1,8 +1,9 @@
 # **Darya Dubovik**  
 
-## Frontend Developer
+## Junior Frontend Developer
 ![Photo](photo.jpg)  
 
+### CONTACT INFORMATION
 Email: name@company.com
 
 Address: Tbilisi, Street Avenue 90
@@ -13,11 +14,11 @@ Discord nickname: @DaryaDubovik27
 
 *****
 ### LANGUAGES
-- Russian
+- Russian - Native
 
-- Belarusian
+- Belarusian - Native
 
-- English B1
+- English - B2
 
 *****
 ### ABOUT ME
@@ -29,11 +30,11 @@ My goal is to work in IT, where I can combine my logical thinking and strong att
 
 *****
 ### EDUCATION
-#### **Belarusian State economic University (2008-2012)**
+#### **Belarusian State Economic University (2008-2012)**
 
 Bachelor, Accounting in industry
 
-#### **Rolling Scopes School (2025 - in progress)**
+#### **RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)**
 
 Frontend Developer
 
@@ -49,10 +50,10 @@ ABC Company, Minsk
 
 DEF Company, Minsk
 
-#### **CV#1. Markdown & Git** (https://github.com/DaryaDubovik27/rsschool-cv) 
+#### **[Project CV#1. Markdown & Git]** (https://github.com/DaryaDubovik27/rsschool-cv) 
 
 ******
-### EXAMPLE OF CODE
+### CODE EXAMPLE
 ```
 function multiply(a, b){
   return a * b;
