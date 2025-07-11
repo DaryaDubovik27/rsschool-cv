@@ -12,6 +12,10 @@
 
 @media (max-width: 768px) {
 
+    .header,
+    .footer,
+    .main,
+    .container,
     .header-container,
     .aside-container,
     .about-container,
