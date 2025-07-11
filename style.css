@@ -12,8 +12,10 @@
 
 @media (max-width: 768px) {
 
+    .header-container,
     .aside-container,
-    .about-container {
+    .about-container,
+    .footer-container {
         width: 100%;
     }
 
